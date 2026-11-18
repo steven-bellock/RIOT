@@ -1115,7 +1115,7 @@ typedef enum {
      * @brief Content type `application/cmw+cbor`
      *
      * Media type: [`application/cmw+cbor`](https://www.iana.org/assignments/media-types/application/cmw+cbor)
-     * @see [RFC-ietf-rats-msg-wrap-22, Sections 3.1, 3.2, 3.3](https://www.iana.org/go/draft-ietf-rats-msg-wrap-22#section-3.1)
+     * @see [RFC9999, Sections 3.1, 3.2, 3.3](https://www.iana.org/go/rfc9999#section-3.1)
      */
     UNICOAP_FORMAT_CMW_CBOR = 273,
 
@@ -1123,7 +1123,7 @@ typedef enum {
      * @brief Content type `application/cmw+json`
      *
      * Media type: [`application/cmw+json`](https://www.iana.org/assignments/media-types/application/cmw+json)
-     * @see [RFC-ietf-rats-msg-wrap-22, Sections 3.1, 3.3](https://www.iana.org/go/draft-ietf-rats-msg-wrap-22)
+     * @see [RFC9999, Sections 3.1, 3.3](https://www.iana.org/go/rfc9999)
      */
     UNICOAP_FORMAT_CMW_JSON = 274,
 
@@ -1131,7 +1131,7 @@ typedef enum {
      * @brief Content type `application/cmw+cose`
      *
      * Media type: [`application/cmw+cose`](https://www.iana.org/assignments/media-types/application/cmw+cose)
-     * @see [RFC-ietf-rats-msg-wrap-22, Section 4.1](https://www.iana.org/go/draft-ietf-rats-msg-wrap-22#section-4.1)
+     * @see [RFC9999, Section 4.1](https://www.iana.org/go/rfc9999#section-4.1)
      */
     UNICOAP_FORMAT_CMW_COSE = 275,
 
@@ -1139,7 +1139,7 @@ typedef enum {
      * @brief Content type `application/cmw+jws`
      *
      * Media type: [`application/cmw+jws`](https://www.iana.org/assignments/media-types/application/cmw+jws)
-     * @see [RFC-ietf-rats-msg-wrap-22, Section 4.2](https://www.iana.org/go/draft-ietf-rats-msg-wrap-22#section-4.2)
+     * @see [RFC9999, Section 4.2](https://www.iana.org/go/rfc9999#section-4.2)
      */
     UNICOAP_FORMAT_CMW_JWS = 276,
 
